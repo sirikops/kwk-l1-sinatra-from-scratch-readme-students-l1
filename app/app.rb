@@ -6,3 +6,5 @@ class App < Sinatra::Base
   end
 
 end
+
+#this is a route
